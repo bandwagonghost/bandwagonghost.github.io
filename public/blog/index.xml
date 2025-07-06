@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>博客 on 搬瓦工中文指南</title>
+    <link>https://bandwagonghost.githu.io/blog/</link>
+    <description>Recent content in 博客 on 搬瓦工中文指南</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 06 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://bandwagonghost.githu.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工怎么样？我的真实使用体验分享【2025】</title>
+      <link>https://bandwagonghost.githu.io/blog/bandwagonhost-personal-experience/</link>
+      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.githu.io/blog/bandwagonhost-personal-experience/</guid>
+      <description>搬瓦工VPS使用多年真实体验分享 - 从购买到使用的完整感受，包括速度表现、稳定性、客服体验等方面的个人评价，帮你了解搬瓦工到底怎么样。</description>
+    </item>
+  </channel>
+</rss>
