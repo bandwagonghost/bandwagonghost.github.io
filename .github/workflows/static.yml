@@ -10,11 +10,6 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  # 修正拼写错误：inprogress → in-progress
-  cancel-inprogress: false
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
