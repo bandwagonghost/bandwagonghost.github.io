@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>教程指南 on 搬瓦工中文指南</title>
+    <link>https://bandwagonghost.github.io/tutorials/</link>
+    <description>Recent content in 教程指南 on 搬瓦工中文指南</description>
+    <generator>Hugo -- 0.147.6</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://bandwagonghost.github.io/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工退款图文教程和退款政策详解【2025】</title>
+      <link>https://bandwagonghost.github.io/tutorials/bandwagonhost-refund-guide/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/tutorials/bandwagonhost-refund-guide/</guid>
+      <description>搬瓦工退款完整教程，详细介绍搬瓦工退款政策、申请退款的具体步骤、退款处理时间及注意事项。帮助用户了解搬瓦工退款流程，解决退款相关问题。</description>
+    </item>
+  </channel>
+</rss>
