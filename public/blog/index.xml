@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 06 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工可以做VPN吗？我的实际使用经验分享</title>
+      <link>https://bandwagonghost.github.io/blog/can-bandwagonhost-work-as-vpn/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/can-bandwagonhost-work-as-vpn/</guid>
+      <description>基于我使用搬瓦工VPS的实际经验，分析搬瓦工做VPN的可行性、稳定性、性价比和实际效果，包含真实的使用感受和建议。</description>
+    </item>
     <item>
       <title>搬瓦工怎么样？我的真实使用体验分享【2025】</title>
       <link>https://bandwagonghost.github.io/blog/bandwagonhost-personal-experience/</link>
