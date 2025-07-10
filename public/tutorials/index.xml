@@ -6,8 +6,15 @@
     <description>Recent content in 教程指南 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工VPS配置升级图文教程【2025】</title>
+      <link>https://bandwagonghost.github.io/tutorials/bandwagonhost-upgrade-guide/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/tutorials/bandwagonhost-upgrade-guide/</guid>
+      <description>详细介绍搬瓦工VPS升级步骤，包括套餐升级、配置提升、数据迁移注意事项。重点说明升级限制条件、不可逆性及升级前必须了解的重要事项。</description>
+    </item>
     <item>
       <title>搬瓦工退款图文教程和退款政策详解【2025】</title>
       <link>https://bandwagonghost.github.io/tutorials/bandwagonhost-refund-guide/</link>
