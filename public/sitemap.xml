@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bandwagonghost.github.io/tutorials/bandwagonhost-renewal-guide/</loc>
-    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+    <loc>https://bandwagonghost.github.io/blog/bandwagonhost-notification-issues/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bandwagonghost.github.io/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bandwagonghost.github.io/blog/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bandwagonghost.github.io/tutorials/bandwagonhost-renewal-guide/</loc>
     <lastmod>2025-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bandwagonghost.github.io/tutorials/</loc>
@@ -21,9 +27,6 @@
     <lastmod>2025-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bandwagonghost.github.io/tutorials/bandwagonhost-refund-guide/</loc>
-    <lastmod>2025-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bandwagonghost.github.io/blog/</loc>
     <lastmod>2025-07-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bandwagonghost.github.io/news/biggerbox-pro-restock/</loc>

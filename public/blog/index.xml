@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工收不到通知邮件？完整解决方案汇总</title>
+      <link>https://bandwagonghost.github.io/blog/bandwagonhost-notification-issues/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/bandwagonhost-notification-issues/</guid>
+      <description>搬瓦工用户经常遇到收不到账户通知、续费提醒、维护通知等邮件的问题。本文详细分析原因并提供完整解决方案，包括邮箱设置、垃圾邮件过滤、账户配置等多种解决方法。</description>
+    </item>
     <item>
       <title>搬瓦工可以做VPN吗？我的实际使用经验分享</title>
       <link>https://bandwagonghost.github.io/blog/can-bandwagonhost-work-as-vpn/</link>
