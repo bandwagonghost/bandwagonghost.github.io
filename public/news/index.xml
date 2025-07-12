@@ -6,8 +6,15 @@
     <description>Recent content in 新闻动态 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工洛杉矶DC9机房硬件升级：AMD EPYC &#43; NVMe RAID-10</title>
+      <link>https://bandwagonghost.github.io/news/dc9-hardware-upgrade-amd-nvme/</link>
+      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/news/dc9-hardware-upgrade-amd-nvme/</guid>
+      <description>搬瓦工洛杉矶DC9机房完成重大硬件升级，采用AMD EPYC服务器配备NVMe RAID-10存储。现有用户可免费升级，新用户直接享受最新硬件配置。详解升级优势、操作步骤及性能提升。</description>
+    </item>
     <item>
       <title>搬瓦工 BIGGERBOX-PRO 7月补货通知【2025】</title>
       <link>https://bandwagonghost.github.io/news/biggerbox-pro-restock/</link>
