@@ -16,6 +16,13 @@
       <description>详细介绍如何检测搬瓦工VPS的IP是否被GFW封禁，包括官方blacklistcheck工具和ping测试方法，以及完整的IP更换流程和预防措施。</description>
     </item>
     <item>
+      <title>搬瓦工KiwiVM控制面板邮件通知设置指南</title>
+      <link>https://bandwagonghost.github.io/tutorials/kiwivm-notification-email-settings-guide/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/tutorials/kiwivm-notification-email-settings-guide/</guid>
+      <description>详细介绍搬瓦工KiwiVM控制面板通知邮件设置页面的各项配置选项，重点讲解流量使用提醒和安全通知的设置方法，帮助用户避免服务中断和安全风险。</description>
+    </item>
+    <item>
       <title>搬瓦工VPS连接指南：获取信息并使用SSH连接</title>
       <link>https://bandwagonghost.github.io/tutorials/bandwagonhost-ssh-connection-guide/</link>
       <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
