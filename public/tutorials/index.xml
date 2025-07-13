@@ -6,8 +6,15 @@
     <description>Recent content in 教程指南 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工IP被封怎么办？我来教你检测和更换</title>
+      <link>https://bandwagonghost.github.io/tutorials/bandwagonhost-ip-blocked-replacement-guide/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/tutorials/bandwagonhost-ip-blocked-replacement-guide/</guid>
+      <description>详细介绍如何检测搬瓦工VPS的IP是否被GFW封禁，包括官方blacklistcheck工具和ping测试方法，以及完整的IP更换流程和预防措施。</description>
+    </item>
     <item>
       <title>搬瓦工VPS连接指南：获取信息并使用SSH连接</title>
       <link>https://bandwagonghost.github.io/tutorials/bandwagonhost-ssh-connection-guide/</link>
