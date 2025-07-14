@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工VPS使用BBR加速：一键开启网速翻倍</title>
+      <link>https://bandwagonghost.github.io/blog/bandwagonhost-bbr-setup-guide/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/bandwagonhost-bbr-setup-guide/</guid>
+      <description>搬瓦工VPS网络速度慢？通过开启BBR加速算法，YouTube加载速度从17Mbps提升到45Mbps。本文详细介绍BBR的作用原理，提供一键安装命令，适合所有Linux新手用户。</description>
+    </item>
     <item>
       <title>搬瓦工收不到通知邮件？完整解决方案汇总</title>
       <link>https://bandwagonghost.github.io/blog/bandwagonhost-notification-issues/</link>
