@@ -16,6 +16,13 @@
       <description>搬瓦工VPS网络速度慢？通过开启BBR加速算法，YouTube加载速度从17Mbps提升到45Mbps。本文详细介绍BBR的作用原理，提供一键安装命令，适合所有Linux新手用户。</description>
     </item>
     <item>
+      <title>搬瓦工官网无法访问怎么办？镜像站完美解决</title>
+      <link>https://bandwagonghost.github.io/blog/bandwagonhost-sites-access-guide/</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/bandwagonhost-sites-access-guide/</guid>
+      <description>搬瓦工官网在国内无法正常访问？本文详细介绍搬瓦工被屏蔽的原因，以及如何通过官方镜像站正常访问购买VPS服务，包含最新可用镜像站地址。</description>
+    </item>
+    <item>
       <title>搬瓦工收不到通知邮件？完整解决方案汇总</title>
       <link>https://bandwagonghost.github.io/blog/bandwagonhost-notification-issues/</link>
       <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
