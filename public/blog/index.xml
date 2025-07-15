@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 14 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工测试IP大全及网络质量判断教程【2025】</title>
+      <link>https://bandwagonghost.github.io/blog/bandwagonhost-test-ip/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/bandwagonhost-test-ip/</guid>
+      <description>搬瓦工全机房测试IP地址汇总，包含洛杉矶CN2 GIA、香港、日本等所有机房的测试IP，详细教程教你如何通过ping、traceroute等方式判断网络状态和机房质量。</description>
+    </item>
     <item>
       <title>搬瓦工VPS使用BBR加速：一键开启网速翻倍</title>
       <link>https://bandwagonghost.github.io/blog/bandwagonhost-bbr-setup-guide/</link>
