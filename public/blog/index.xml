@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工流量超了会怎么样？我该怎么办？</title>
+      <link>https://bandwagonghost.github.io/blog/bandwagonhost-traffic-exceeded/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/bandwagonhost-traffic-exceeded/</guid>
+      <description>搬瓦工VPS流量超限后会暂停服务直到下月重置。本文详细介绍流量超限的后果、应对方法，以及如何监控和预防流量超限，帮助用户合理管理VPS流量使用。</description>
+    </item>
     <item>
       <title>搬瓦工测试IP大全及网络质量判断教程【2025】</title>
       <link>https://bandwagonghost.github.io/blog/bandwagonhost-test-ip/</link>
