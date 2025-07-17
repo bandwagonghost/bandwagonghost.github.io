@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工CN2 GIA套餐到底是什么？三网直连详解</title>
+      <link>https://bandwagonghost.github.io/blog/bandwagonhost-cn2-gia-truth-revealed/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/bandwagonhost-cn2-gia-truth-revealed/</guid>
+      <description>澄清搬瓦工CN2 GIA套餐的常见误解，详细介绍其实际提供的是三网高级直连服务（电信CN2 GIA + 移动CMIN2 + 联通Premium），而非单纯的CN2 GIA线路，帮助用户正确理解产品特性。</description>
+    </item>
     <item>
       <title>搬瓦工流量超了会怎么样？我该怎么办？</title>
       <link>https://bandwagonghost.github.io/blog/bandwagonhost-traffic-exceeded/</link>
