@@ -6,8 +6,15 @@
     <description>Recent content in 新闻动态 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工 MINICHICKEN 套餐补货通知！年付19美元</title>
+      <link>https://bandwagonghost.github.io/news/bandwagonhost-minichicken-restock/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/news/bandwagonhost-minichicken-restock/</guid>
+      <description>搬瓦工 MINICHICKEN 限量版套餐再次补货！1核1GB内存20GB SSD硬盘，年付仅需19美元，美国弗里蒙特机房HE线路。本文详细介绍套餐配置、补货时间记录、适用人群分析及购买注意事项。</description>
+    </item>
     <item>
       <title>搬瓦工洛杉矶DC9机房硬件升级：AMD EPYC &#43; NVMe RAID-10</title>
       <link>https://bandwagonghost.github.io/news/dc9-hardware-upgrade-amd-nvme/</link>
