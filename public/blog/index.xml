@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工为什么这么贵？深度分析VPS价格背后的真相</title>
+      <link>https://bandwagonghost.github.io/blog/why-bandwagonhost-expensive-analysis/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/why-bandwagonhost-expensive-analysis/</guid>
+      <description>很多人都觉得搬瓦工VPS价格偏高，但真的贵吗？本文从网络质量、硬件配置、服务稳定性等多个维度分析搬瓦工定价策略，并与DMIT、HostDare等竞品对比，帮你了解搬瓦工贵在哪里，是否物有所值。</description>
+    </item>
     <item>
       <title>搬瓦工和Just My Socks是什么关系？深度解析</title>
       <link>https://bandwagonghost.github.io/blog/bandwagonhost-justmysocks-relationship/</link>
