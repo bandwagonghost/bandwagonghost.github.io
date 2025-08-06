@@ -6,8 +6,15 @@
     <description>Recent content in 商家对比 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/comparisons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工与野草云美国VPS对比：我该选择谁？</title>
+      <link>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-yecaoyun/</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-yecaoyun/</guid>
+      <description>详细对比搬瓦工和野草云VPS的价格、性能、稳定性和服务，帮你选择最适合的海外VPS主机方案。</description>
+    </item>
     <item>
       <title>搬瓦工与GigsGigsCloud对比评测：怎么选？</title>
       <link>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-gigsgigscloud/</link>
@@ -20,87 +27,7 @@
       <link>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-lisahost/</link>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-lisahost/</guid>
-      <description>&lt;p&gt;搬瓦工凭借其稳定的网络和良好的性价比在国内用户中广受欢迎，而丽萨主机则以&lt;span style=&#34;color: red;&#34;&gt;&lt;strong&gt;家宽住宅&lt;/strong&gt;&lt;/span&gt;美国原生IP和无限流量套餐等特色服务赢得了特定人群的青睐。&lt;/p&gt;
-&lt;p&gt;今天我将对这两家主机服务商进行全面深入的对比，希望能对你有所帮助！&lt;/p&gt;
-&lt;h2 id=&#34;搬瓦工与丽萨主机快速对比总结&#34;&gt;搬瓦工与丽萨主机快速对比总结&lt;/h2&gt;
-&lt;p&gt;在进入详细对比前，先来看看两家服务商的核心参数对比:&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;对比项目&lt;/th&gt;
-          &lt;th&gt;搬瓦工&lt;/th&gt;
-          &lt;th&gt;丽萨主机&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;价格&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;$49.99&lt;/strong&gt;/年起&lt;/td&gt;
-          &lt;td&gt;&lt;em&gt;¥653 ≈&lt;/em&gt; &lt;strong&gt;$93.28&lt;/strong&gt;/年起&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;网络线路&lt;/td&gt;
-          &lt;td&gt;普通线路&lt;/td&gt;
-          &lt;td&gt;普通线路(家宽住宅美国原生IP)&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;带宽&lt;/td&gt;
-          &lt;td&gt;1Gbps&lt;/td&gt;
-          &lt;td&gt;300Mbps&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;流量&lt;/td&gt;
-          &lt;td&gt;1TB/月&lt;/td&gt;
-          &lt;td&gt;3000GB/月&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;退款保证&lt;/td&gt;
-          &lt;td&gt;30天(流量使用10%以下)&lt;/td&gt;
-          &lt;td&gt;48小时不满意无条件退款&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;适合人群&lt;/td&gt;
-          &lt;td&gt;建站、开发、学习Linux&lt;/td&gt;
-          &lt;td&gt;美区解锁、电商、社媒营销&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;总体评价&lt;/td&gt;
-          &lt;td&gt;性价比高，网络稳定&lt;/td&gt;
-          &lt;td&gt;特色IP资源，流量充足&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;官网链接&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;https://bwh81.net/aff.php?aff=75629&#34;  target=&#34;_blank&#34; rel=&#34;noopener noreferrer sponsored&#34;&gt;
-        前往搬瓦工官网
-    &lt;/a&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;https://lisahost.com/aff.php?aff=2650&#34;  target=&#34;_blank&#34; rel=&#34;noopener noreferrer sponsored&#34;&gt;
-        前往丽萨主机官网
-    &lt;/a&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;从表格中可以看出，两家主机服务商各有特色。搬瓦工在价格和带宽方面占优，而丽萨主机则在流量和IP资源方面具有特色优势。下面我将对两家服务商进行更详细的对比分析。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;关于对比评测套餐的说明：&lt;/p&gt;
-&lt;p&gt;在本次对比测试中，我选择了搬瓦工和丽萨主机的常规线路套餐进行比较，但是两家服务商都有更&lt;strong&gt;高级的网络线路&lt;/strong&gt;的套餐可选。&lt;/p&gt;&lt;/blockquote&gt;
-&lt;h2 id=&#34;网络延迟对比&#34;&gt;网络延迟对比&lt;/h2&gt;
-&lt;p&gt;网络延迟是选择VPS的重要考量因素，直接影响到使用体验。我对两家服务商的洛杉矶机房进行了全国Ping测试，结果如下:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;搬瓦工延迟测试结果：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;搬瓦工全国Ping延迟测试截图&#34; loading=&#34;lazy&#34; src=&#34;https://bandwagonghost.github.io/images/bandwagonhost-usca-2/2025-07-15-171144.webp&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;丽萨主机延迟测试结果：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;丽萨主机全国Ping延迟测试截图&#34; loading=&#34;lazy&#34; src=&#34;https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-lisahost/2025-07-24-211551.webp&#34;&gt;&lt;/p&gt;
-&lt;p&gt;搬瓦工洛杉矶USCA_2机房的ping延迟平均为&lt;span style=&#34;color: red;&#34;&gt;183.54ms&lt;/span&gt;，而丽萨主机的洛杉矶机房延迟平均值为&lt;span style=&#34;color: red;&#34;&gt;198.36ms&lt;/span&gt;。从数据上看，搬瓦工的网络延迟表现确实优于丽萨主机，但差距并不是特别明显。&lt;/p&gt;
-&lt;p&gt;对于普通浏览、远程管理等场景，两者都能提供较为流畅的体验。&lt;/p&gt;
-&lt;h2 id=&#34;网络丢包率对比&#34;&gt;网络丢包率对比&lt;/h2&gt;
-&lt;p&gt;网络丢包率是衡量网络稳定性的重要指标。通过测试发现:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;搬瓦工丢包率表现：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;搬瓦工丢包率测试截图&#34; loading=&#34;lazy&#34; src=&#34;https://bandwagonghost.github.io/images/bandwagonhost-usca-2/2025-07-15-171151.webp&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;丽萨主机丢包率表现：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;丽萨主机丢包率测试截图&#34; loading=&#34;lazy&#34; src=&#34;https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-lisahost/2025-07-24-211542.webp&#34;&gt;&lt;/p&gt;
-&lt;p&gt;搬瓦工的丢包率测试结果为 &lt;span style=&#34;color: red;&#34;&gt;4.64%&lt;/span&gt;，而丽萨主机平均丢包率为 &lt;span style=&#34;color: red;&#34;&gt;5.84%&lt;/span&gt;。从数据来看，丽萨主机的稳定性已经比市场上很多商家都要优秀，虽然数值上不如搬瓦工，但在实际使用体验上差异并不明显。&lt;/p&gt;
-&lt;p&gt;因此对于大多数应用场景，两者都能提供稳定的网络环境。&lt;/p&gt;
-&lt;h2 id=&#34;价格配置对比&#34;&gt;价格配置对比&lt;/h2&gt;
-&lt;p&gt;价格和配置是选择 VPS 时最关心的，下面我来详细对比两家的入门套餐。&lt;/p&gt;</description>
+      <description>详细对比搬瓦工和丽萨主机两大VPS提供商的价格、性能、线路、延迟等关键指标，帮你选择最适合的VPS方案。</description>
     </item>
     <item>
       <title>搬瓦工vs TmhHost详细对比评测：哪家更值得？</title>
