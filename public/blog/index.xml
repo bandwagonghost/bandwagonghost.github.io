@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工 VPS 重装系统教程：手把手教你重新安装操作系统</title>
+      <link>https://bandwagonghost.github.io/blog/bandwagonhost-reinstall-os/</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/bandwagonhost-reinstall-os/</guid>
+      <description>本文详细介绍了搬瓦工 VPS 重装操作系统的方法，包括通过 KiwiVM 面板一键重装、选择合适的系统版本、常见问题解决等内容，帮助新手用户快速完成系统重装。</description>
+    </item>
     <item>
       <title>搬瓦工VPS连不上怎么办？无法使用的 4 大原因</title>
       <link>https://bandwagonghost.github.io/blog/bandwagonhost-vps-connection-failed/</link>
