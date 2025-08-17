@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025年建站VPS推荐：最后为什么选择搬瓦工</title>
+      <link>https://bandwagonghost.github.io/blog/best-vps-for-website-bandwagonhost/</link>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/best-vps-for-website-bandwagonhost/</guid>
+      <description>深度分析建站VPS选择要点，基于多年搬瓦工实战经验，从性能测试、稳定性监控、成本分析到实际建站案例，全方位解析为什么搬瓦工是建站首选VPS服务商。</description>
+    </item>
     <item>
       <title>搬瓦工 VPS 重装系统教程：手把手教你重新安装操作系统</title>
       <link>https://bandwagonghost.github.io/blog/bandwagonhost-reinstall-os/</link>
