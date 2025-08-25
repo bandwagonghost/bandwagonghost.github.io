@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 17 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工VPS忘记密码怎么办？密码重置教程【2025】</title>
+      <link>https://bandwagonghost.github.io/blog/bandwagonhost-root-password-modification/</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/bandwagonhost-root-password-modification/</guid>
+      <description>详细介绍搬瓦工VPS忘记root密码后，如何通过KiwiVM控制面板快速重置和修改密码。包含完整的操作步骤、注意事项和常见问题解决方案，帮助用户轻松找回VPS访问权限。</description>
+    </item>
     <item>
       <title>2025年建站VPS推荐：最后为什么选择搬瓦工</title>
       <link>https://bandwagonghost.github.io/blog/best-vps-for-website-bandwagonhost/</link>
