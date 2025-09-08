@@ -6,8 +6,15 @@
     <description>Recent content in 详细评测 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工洛杉矶DC8机房Basic VPS深度性能评测</title>
+      <link>https://bandwagonghost.github.io/reviews/bandwagonhost-dc8-basic-vps-review/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/reviews/bandwagonhost-dc8-basic-vps-review/</guid>
+      <description>详细测试搬瓦工 Basic VPS 在 DC8 机房的真实性能表现，包括速度测试、延迟分析、稳定性评估和性价比对比，为预算有限用户提供客观的购买参考。</description>
+    </item>
     <item>
       <title>搬瓦工DC2机房Basic VPS深度测评：套餐性能全面解析</title>
       <link>https://bandwagonghost.github.io/reviews/bandwagonhost-dc2-basic-vps-review/</link>
