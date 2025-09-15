@@ -6,8 +6,15 @@
     <description>Recent content in 详细评测 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工Basic VPS新泽西州USNJ机房性能最新评测</title>
+      <link>https://bandwagonghost.github.io/reviews/bandwagonhost-usnj-basic-vps-review/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/reviews/bandwagonhost-usnj-basic-vps-review/</guid>
+      <description>搬瓦工新泽西州机房怎么样？实测数据告诉你答案！详细测试延迟、速度、稳定性，对比加州机房优劣，帮你选择最适合的VPS服务器机房。</description>
+    </item>
     <item>
       <title>搬瓦工弗里蒙特USCA_FMT机房Basic VPS性能实测【最新】</title>
       <link>https://bandwagonghost.github.io/reviews/bandwagonhost-usca-fmt-basic-vps-review/</link>
