@@ -6,8 +6,15 @@
     <description>Recent content in 详细评测 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工纽约 USNY_6 机房 Basic VPS 最新性能测评</title>
+      <link>https://bandwagonghost.github.io/reviews/bandwagonhost-usny-6-basic-vps-review/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/reviews/bandwagonhost-usny-6-basic-vps-review/</guid>
+      <description>详细测评搬瓦工纽约 USNY_6 机房 Basic VPS 性能表现，包括 CPU 性能、网络速度、延迟测试等关键指标，为用户选择提供参考依据。</description>
+    </item>
     <item>
       <title>搬瓦工Basic VPS新泽西州USNJ机房性能最新评测</title>
       <link>https://bandwagonghost.github.io/reviews/bandwagonhost-usnj-basic-vps-review/</link>
