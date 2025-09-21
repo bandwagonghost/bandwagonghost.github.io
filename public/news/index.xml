@@ -6,8 +6,15 @@
     <description>Recent content in 新闻动态 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工香港机房完成升级：AMD EPYC 处理器搭配 NVMe RAID-10</title>
+      <link>https://bandwagonghost.github.io/news/hk-hardware-upgrade-amd-nvme/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/news/hk-hardware-upgrade-amd-nvme/</guid>
+      <description>2025 年 9 月 20 日香港数据中心推出 AMD EPYC 处理器服务器配备 NVMe RAID-10 存储，涵盖 HK3 和 HK8 机房硬件升级详情、性能提升分析及用户免费升级操作流程指南。</description>
+    </item>
     <item>
       <title>搬瓦工新增Debian 13操作系统支持：Trixie安装教程</title>
       <link>https://bandwagonghost.github.io/news/bandwagonhost-debian-13-trixie-support/</link>
