@@ -6,8 +6,15 @@
     <description>Recent content in 详细评测 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工 Basic VPS 加拿大温哥华 CABC_1 机房实测</title>
+      <link>https://bandwagonghost.github.io/reviews/bandwagonhost-cabc-1-basic-vps-review/</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/reviews/bandwagonhost-cabc-1-basic-vps-review/</guid>
+      <description>搬瓦工 Basic VPS 在加拿大温哥华 CABC_1 数据中心的实际表现如何？通过国内访问速度、网络延迟、线路质量、稳定性以及性能跑分等多维度测试，全面展示该机房的真实使用体验和性价比表现。</description>
+    </item>
     <item>
       <title>搬瓦工荷兰阿姆斯特丹 EUNL_2 机房 Basic VPS 实测</title>
       <link>https://bandwagonghost.github.io/reviews/bandwagonhost-eunl-2-basic-vps-review/</link>
