@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 25 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工 CN2 GIA 有什么不一样？为什么备受欢迎？</title>
+      <link>https://bandwagonghost.github.io/blog/bandwagonhost-cn2-gia-difference/</link>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/bandwagonhost-cn2-gia-difference/</guid>
+      <description>市面上不少 VPS 商家都宣称提供 CN2 GIA 优化线路，但搬瓦工的 CN2 GIA 一直被认为更稳定、延迟更低、丢包更少。它到底和其他家的 CN2 GIA 有什么不一样？本文将从多个角度，深入解析搬瓦工 CN2 GIA 的独特之处。</description>
+    </item>
     <item>
       <title>搬瓦工VPS忘记密码怎么办？密码重置教程【2025】</title>
       <link>https://bandwagonghost.github.io/blog/bandwagonhost-root-password-modification/</link>
