@@ -6,8 +6,15 @@
     <description>Recent content in 新闻动态 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工 2025 年双十一优惠：全场常规套餐 11% 折扣码分享</title>
+      <link>https://bandwagonghost.github.io/news/bandwagonhost-11-11-coupon/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/news/bandwagonhost-11-11-coupon/</guid>
+      <description>搬瓦工（BandwagonHost） 2025 年 11.11 促销活动来袭，使用优惠码 ILOVEBANDWAGON 可享受全场常规 VPS 套餐 11% 折扣优惠，活动时间有限，库存紧张，本文分享最新折扣码使用方法及购买注意事项。</description>
+    </item>
     <item>
       <title>搬瓦工香港机房完成升级：AMD EPYC 处理器搭配 NVMe RAID-10</title>
       <link>https://bandwagonghost.github.io/news/hk-hardware-upgrade-amd-nvme/</link>
