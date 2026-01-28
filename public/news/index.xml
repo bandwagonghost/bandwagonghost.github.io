@@ -6,8 +6,15 @@
     <description>Recent content in 新闻动态 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工荷兰阿姆斯特丹节点新机房 EUNL_1 正式开放购买</title>
+      <link>https://bandwagonghost.github.io/news/bandwagon-eunl-1-datacenter-available/</link>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/news/bandwagon-eunl-1-datacenter-available/</guid>
+      <description>搬瓦工 EUNL_1 荷兰阿姆斯特丹机房正式对外开放销售，本文整理该机房的套餐配置、价格方案、线路性能及适用场景，为需要欧洲 VPS 服务的用户提供参考。</description>
+    </item>
     <item>
       <title>2026 年初搬瓦工阿姆斯特丹限量版已补货，下单需要邀请码</title>
       <link>https://bandwagonghost.github.io/news/the-amsterdam-plan-restock/</link>
