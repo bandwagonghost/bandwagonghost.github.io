@@ -6,8 +6,15 @@
     <description>Recent content in 新闻动态 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工续费政策变了！账单提前 7 天生成有什么影响？</title>
+      <link>https://bandwagonghost.github.io/news/bandwagonhost-renewal-update-2026/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/news/bandwagonhost-renewal-update-2026/</guid>
+      <description>搬瓦工近期调整续费政策，续费账单已改为到期前 7 天生成。本文快速说明此次变动内容、对手动续费用户的具体影响，以及应该如何提前充值来避免断网或服务中断。</description>
+    </item>
     <item>
       <title>搬瓦工荷兰阿姆斯特丹节点新机房 EUNL_1 正式开放购买</title>
       <link>https://bandwagonghost.github.io/news/bandwagon-eunl-1-datacenter-available/</link>
