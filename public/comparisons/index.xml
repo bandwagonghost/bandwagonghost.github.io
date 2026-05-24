@@ -6,8 +6,15 @@
     <description>Recent content in 商家对比 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/comparisons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>预算有限！买 RackNerd 还是搬瓦工，真实数据对比</title>
+      <link>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-racknerd/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-racknerd/</guid>
+      <description>预算有限时选择 RackNerd 还是搬瓦工。本文通过真实数据，对比两家 VPS 服务商在网络延迟、下载速度、IO 性能以及晚高峰丢包率等维度的核心表现。拒绝盲目跟风，用实测数据帮你做出理性的选购决策。</description>
+    </item>
     <item>
       <title>RAKsmart 也有精品 CN2，搬瓦工与 RAKsmart 该怎么选？</title>
       <link>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-raksmart/</link>
