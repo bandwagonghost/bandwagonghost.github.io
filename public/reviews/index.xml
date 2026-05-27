@@ -6,8 +6,15 @@
     <description>Recent content in 详细评测 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 11 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工 USNY_6 更换底层硬件后的算力提升实测</title>
+      <link>https://bandwagonghost.github.io/reviews/bandwagonhost-usny-6-hardware-upgrade-2026/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/reviews/bandwagonhost-usny-6-hardware-upgrade-2026/</guid>
+      <description>本文详细记录搬瓦工（BandwagonHost）纽约 USNY_6 机房升级全新底层硬件后的性能表现。通过独立脚本实测 CPU 算力、NVMe 硬盘 I/O 读写速度以及实际的网络路由延迟。客观分析新硬件架构下的真实性价比。</description>
+    </item>
     <item>
       <title>搬瓦工 Basic VPS 加拿大温哥华 CABC_1 机房实测</title>
       <link>https://bandwagonghost.github.io/reviews/bandwagonhost-cabc-1-basic-vps-review/</link>
