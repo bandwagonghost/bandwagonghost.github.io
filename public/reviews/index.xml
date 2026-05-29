@@ -6,8 +6,15 @@
     <description>Recent content in 详细评测 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工香港 CN2 GIA 值得买吗？HKHK_8 路由与延迟分析</title>
+      <link>https://bandwagonghost.github.io/reviews/bandwagonhost-hkhk-8-cn2-gia-review/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/reviews/bandwagonhost-hkhk-8-cn2-gia-review/</guid>
+      <description>搬瓦工中国香港HKHK_8机房值得买吗？本文深度实测搬瓦工香港CN2 GIA顶级线路，提供电信、联通、移动三网回程路由追踪及晚高峰真实延迟数据，助你理性评估建站与业务部署性价比。</description>
+    </item>
     <item>
       <title>搬瓦工 USNY_6 更换底层硬件后的算力提升实测</title>
       <link>https://bandwagonghost.github.io/reviews/bandwagonhost-usny-6-hardware-upgrade-2026/</link>
