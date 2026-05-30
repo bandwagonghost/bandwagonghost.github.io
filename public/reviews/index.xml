@@ -6,8 +6,15 @@
     <description>Recent content in 详细评测 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工新加坡 SG_8 机房怎么样！CN2 GIA 延迟、路由评测</title>
+      <link>https://bandwagonghost.github.io/reviews/bandwagonhost-sg-8-review/</link>
+      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/reviews/bandwagonhost-sg-8-review/</guid>
+      <description>搬瓦工全新新加坡 SG_8 机房正式上线！ 本文为您带来第一手深度测评：全面测试国内直连优化线路的真实延迟、三网回程路由、晚高峰丢包率以及流媒体解锁情况。看新机房能否成为继香港和日本之后的建站新选择！</description>
+    </item>
     <item>
       <title>搬瓦工香港 CN2 GIA 值得买吗？HKHK_8 路由与延迟分析</title>
       <link>https://bandwagonghost.github.io/reviews/bandwagonhost-hkhk-8-cn2-gia-review/</link>
