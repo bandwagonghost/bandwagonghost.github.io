@@ -1,14 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bandwagonghost.github.io/reviews/bandwagonhost-sg-8-review/</loc>
-    <lastmod>2026-05-30</lastmod>
+    <loc>https://bandwagonghost.github.io/blog/bandwagonhost-reliability/</loc>
+    <lastmod>2026-06-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bandwagonghost.github.io/</loc>
-    <lastmod>2026-05-30</lastmod>
+    <lastmod>2026-06-11</lastmod>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://bandwagonghost.github.io/blog/</loc>
+    <lastmod>2026-06-11</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://bandwagonghost.github.io/reviews/bandwagonhost-sg-8-review/</loc>
+    <lastmod>2026-05-30</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://bandwagonghost.github.io/reviews/</loc>
@@ -79,11 +89,6 @@
     <loc>https://bandwagonghost.github.io/blog/bandwagonhost-cn2-gia-difference/</loc>
     <lastmod>2025-11-05</lastmod>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://bandwagonghost.github.io/blog/</loc>
-    <lastmod>2025-11-05</lastmod>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://bandwagonghost.github.io/reviews/bandwagonhost-cabc-1-basic-vps-review/</loc>
