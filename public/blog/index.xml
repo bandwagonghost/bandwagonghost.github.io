@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>独立站怎么建？小白也能用搬瓦工轻松搭建独立站</title>
+      <link>https://bandwagonghost.github.io/blog/how-to-build-a-website/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/how-to-build-a-website/</guid>
+      <description>零基础小白如何快速搭建独立站？本文为您提供一份完整的搬瓦工（BandwagonHost）建站保姆级教程。从选购高性价比VPS、配置优质网络环境，到最终网站上线，手把手带您避开新手雷区，10 分钟轻松拥有专属的独立站。</description>
+    </item>
     <item>
       <title>搬瓦工搭建外贸独立站靠谱吗？一文讲透优劣与真实体验</title>
       <link>https://bandwagonghost.github.io/blog/bandwagonhost-foreign-trade-website/</link>
