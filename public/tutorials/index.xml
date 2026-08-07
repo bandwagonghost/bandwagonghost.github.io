@@ -6,8 +6,15 @@
     <description>Recent content in 教程指南 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 13 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工 Assistant Amy 助手使用教程！新手的实操指南</title>
+      <link>https://bandwagonghost.github.io/tutorials/bandwagonhost-assistant-amy-guide/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/tutorials/bandwagonhost-assistant-amy-guide/</guid>
+      <description>本文为您详细解读搬瓦工最新上线的 Assistant Amy 助手功能。作为一份零基础实操指南，我们将从核心交互方法、常见运维场景（如 VPS 管理、快捷建站），助您轻松驾驭服务器管理，告别传统运维的繁琐步骤。</description>
+    </item>
     <item>
       <title>搬瓦工IP被封怎么办？我来教你检测和更换</title>
       <link>https://bandwagonghost.github.io/tutorials/bandwagonhost-ip-blocked-replacement-guide/</link>
