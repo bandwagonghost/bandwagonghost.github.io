@@ -6,8 +6,29 @@
     <description>Recent content in 商家对比 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 24 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/comparisons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工与DIYVM香港CN2 GIA VPS对比评测：哪个更值得买？</title>
+      <link>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-diyvm/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-diyvm/</guid>
+      <description>实测对比搬瓦工与DIYVM的香港CN2 GIA线路VPS，从延迟、丢包率、回程路由、性能到价格全方位分析，帮你选出更合适的香港VPS。</description>
+    </item>
+    <item>
+      <title>搬瓦工与JTTI美国CN2 VPS对比评测：怎么选更划算？</title>
+      <link>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-jtti/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-jtti/</guid>
+      <description>实测对比搬瓦工与JTTI美国CN2线路VPS的延迟、丢包率、回程路由、性能和价格，帮你判断建站与正式业务该选哪家。</description>
+    </item>
+    <item>
+      <title>搬瓦工与狗云美国精品VPS对比评测：怎么选不踩坑？</title>
+      <link>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-dogyun/</link>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-dogyun/</guid>
+      <description>实测对比搬瓦工与狗云（DogYun）美国精品CN2 GIA线路VPS，从延迟、丢包率、回程路由、性能到价格全面分析，帮你选出更合适的美国VPS。</description>
+    </item>
     <item>
       <title>预算有限！买 RackNerd 还是搬瓦工，真实数据对比</title>
       <link>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-racknerd/</link>
