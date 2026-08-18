@@ -6,8 +6,15 @@
     <description>Recent content in 教程指南 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>怎么用搬瓦工做中转，Nginx Proxy Manager 图形化配置教程</title>
+      <link>https://bandwagonghost.github.io/tutorials/bandwagonhost-relay-transit-guide/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/tutorials/bandwagonhost-relay-transit-guide/</guid>
+      <description>本文手把手教你把搬瓦工当作中转服务器：在搬瓦工 VPS 上用 Docker 部署 Nginx Proxy Manager，通过它的 Stream 功能做 TCP/UDP 端口转发，把访问请求先打到搬瓦工优质回国线路，再转发给线路较差但便宜的落地机。全程图形界面操作，不用死记 iptables 命令，新手也能落地。</description>
+    </item>
     <item>
       <title>搬瓦工 Assistant Amy 助手使用教程！新手的实操指南</title>
       <link>https://bandwagonghost.github.io/tutorials/bandwagonhost-assistant-amy-guide/</link>
