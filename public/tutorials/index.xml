@@ -6,8 +6,15 @@
     <description>Recent content in 教程指南 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工怎么设置 rDNS（反向解析），到底有没有用？</title>
+      <link>https://bandwagonghost.github.io/tutorials/bandwagonhost-rdns-setup-guide/</link>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/tutorials/bandwagonhost-rdns-setup-guide/</guid>
+      <description>本文讲清楚 rDNS（反向解析 / PTR 记录）是什么、有什么用，并手把手演示在搬瓦工 KiwiVM 面板里给 IP 设置 rDNS 的完整步骤，最后教你用在线工具（MXToolbox）或命令行验证是否生效。同时帮你判断：什么场景下设 rDNS 才真正有意义，纯建站 / 搭服务 / 中转是否需要设。</description>
+    </item>
     <item>
       <title>怎么用搬瓦工做中转，Nginx Proxy Manager 图形化配置教程</title>
       <link>https://bandwagonghost.github.io/tutorials/bandwagonhost-relay-transit-guide/</link>
