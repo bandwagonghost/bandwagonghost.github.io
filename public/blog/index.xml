@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工设置密钥登陆后忘记SSH端口怎么办？免重装找回教程</title>
+      <link>https://bandwagonghost.github.io/blog/bandwagonhost-forgot-ssh-port/</link>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/bandwagonhost-forgot-ssh-port/</guid>
+      <description>搬瓦工VPS设置密钥登录并修改默认22端口后，如果忘记了SSH端口号该怎么办？本文教你如何利用官方AI助手Amy以及KiwiVM面板的Root Shell功能轻松找回SSH端口，无需重装系统。</description>
+    </item>
     <item>
       <title>TikTok 直播卡顿掉线怎么办？搬瓦工 CN2 GIA 稳定中转 &#43; 家宽落地方案</title>
       <link>https://bandwagonghost.github.io/blog/tiktok-live-cn2-gia/</link>
