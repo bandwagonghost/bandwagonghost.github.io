@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 22 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工 VPS CPU 限制规则详解及应对方案</title>
+      <link>https://bandwagonghost.github.io/blog/bandwagonhost-cpu-limits-explained/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/bandwagonhost-cpu-limits-explained/</guid>
+      <description>搬瓦工 VPS 对 CPU 资源具体有哪些限制？本文深度解读搬瓦工官方 CPU 公平使用政策（Fair Share Policy），详解一小时平均值限制机制、各套餐额度对照表、高负载降频处理及应对优化方案。</description>
+    </item>
     <item>
       <title>搬瓦工设置密钥登陆后忘记SSH端口怎么办？免重装找回教程</title>
       <link>https://bandwagonghost.github.io/blog/bandwagonhost-forgot-ssh-port/</link>
