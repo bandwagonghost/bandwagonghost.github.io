@@ -6,8 +6,15 @@
     <description>Recent content in 教程指南 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 20 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>数据无价！搬瓦工 KiwiVM 面板快照与备份使用指南</title>
+      <link>https://bandwagonghost.github.io/tutorials/bandwagonhost-snapshots-and-backups-guide/</link>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/tutorials/bandwagonhost-snapshots-and-backups-guide/</guid>
+      <description>数据安全是建站的第一要务！本文深度解析搬瓦工的自动化备份与快照系统，厘清搬瓦工快照与真正业务数据备份的本质区别，并手把手教你创建快照、导入备份、本地下载快照与一键回滚恢复，构建坚不可摧的数据安全防线。</description>
+    </item>
     <item>
       <title>搬瓦工怎么设置 rDNS（反向解析），到底有没有用？</title>
       <link>https://bandwagonghost.github.io/tutorials/bandwagonhost-rdns-setup-guide/</link>
