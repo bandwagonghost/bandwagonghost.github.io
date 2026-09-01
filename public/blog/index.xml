@@ -13,7 +13,7 @@
       <link>https://bandwagonghost.github.io/blog/should-bandwagonhost-use-cloudflare/</link>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://bandwagonghost.github.io/blog/should-bandwagonhost-use-cloudflare/</guid>
-      <description>探讨搬瓦工 VPS 在使用 Cloudflare CDN 时的速度变化、技术原理及使用建议。</description>
+      <description>为什么搬瓦工 VPS 套 Cloudflare CDN 后反而变慢？本文解析线路降级与路由绕路原理，并针对国内外不同建站场景提供最佳配置建议。</description>
     </item>
     <item>
       <title>搬瓦工 VPS CPU 限制规则详解及应对方案</title>
