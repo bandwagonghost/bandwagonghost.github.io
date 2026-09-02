@@ -6,8 +6,15 @@
     <description>Recent content in 商家对比 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 17 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/comparisons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工与 Kamatera 怎么选？Basic VPS 和企业弹性云的对比</title>
+      <link>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-kamatera/</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-kamatera/</guid>
+      <description>实测对比搬瓦工与以色列老牌云厂商 Kamatera。搬瓦工年付 $49.99 起、支持支付宝、直连中国线路，Kamatera 主打按小时计费弹性云和万兆国际带宽，本文用真实数据帮你判断该选哪家。</description>
+    </item>
     <item>
       <title>搬瓦工与DIYVM香港CN2 GIA VPS对比评测：哪个更值得买？</title>
       <link>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-diyvm/</link>
