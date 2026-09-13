@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 05 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工真的“不送中”吗？揭秘 VPS 送中原理与 IP 纯净度真相</title>
+      <link>https://bandwagonghost.github.io/blog/bandwagonhost-google-location-us-truth/</link>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/bandwagonhost-google-location-us-truth/</guid>
+      <description>在自建节点圈内常有传闻称“搬瓦工锁 US 绝不送中”。本文从计算机网络 GeoIP 与 Google 客户端众包定位算法出发，深度剖析搬瓦工 IP 送中真相、IP 纯净度评测对比，并提供自建节点彻底防止 Google 送中指南。</description>
+    </item>
     <item>
       <title>都说搬瓦工建站快，为什么你的 WordPress 还是卡？</title>
       <link>https://bandwagonghost.github.io/blog/bandwagonhost-wordpress-slow-troubleshooting/</link>
