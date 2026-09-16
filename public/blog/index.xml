@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 14 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工 VPS 安装 Linux 可视化管理面板实操与避坑指南</title>
+      <link>https://bandwagonghost.github.io/blog/bandwagonhost-linux-panel-setup/</link>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/bandwagonhost-linux-panel-setup/</guid>
+      <description>在搬瓦工 VPS 上怎么安装 Linux 可视化管理面板？本文深度对比 1Panel 与宝塔面板，提供免 SSH（通过 KiwiVM Amy 助手一句话安装）和传统终端安装两种实操路径，并详解防 OOM 等关键避坑技巧。</description>
+    </item>
     <item>
       <title>搬瓦工 VPS 遭遇 DDoS 攻击怎么办？黑洞机制与防护指南</title>
       <link>https://bandwagonghost.github.io/blog/bandwagonhost-ddos-protection-and-blackhole/</link>
