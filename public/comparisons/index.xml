@@ -6,8 +6,15 @@
     <description>Recent content in 商家对比 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 20 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/comparisons/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工与腾讯云轻量对比：国内建站与海外免备案怎么选？</title>
+      <link>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-tencent/</link>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-tencent/</guid>
+      <description>结合一手实测数据，深度对比腾讯云轻量应用服务器（成都 2核4G）与搬瓦工 VPS。从工信部备案门槛、国内与跨国网络延迟丢包、CPU 新旧硬件算力跑分到磁盘 I/O 限制，全面解析两者的适用人群与选型建议。</description>
+    </item>
     <item>
       <title>搬瓦工与绿云（GreenCloud）怎么选？最新实测对比</title>
       <link>https://bandwagonghost.github.io/comparisons/bandwagonhost-vs-greencloud/</link>
