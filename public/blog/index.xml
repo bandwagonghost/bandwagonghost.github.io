@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工邀请码是什么？如何获取限量版 VPS 指南</title>
+      <link>https://bandwagonghost.github.io/blog/bandwagonhost-invite-code-guide/</link>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/bandwagonhost-invite-code-guide/</guid>
+      <description>在注册或购买搬瓦工VPS时遇到提示需要输入Invite Code？本文详细解答搬瓦工邀请码的真实机制、与优惠码（Promo Code）的核心区别、阿姆斯特丹限量版（The Amsterdam Plan）邀请码获取途径，以及常规套餐免邀请码直接选购指南。</description>
+    </item>
     <item>
       <title>搬瓦工 VPS 安装 Linux 可视化管理面板实操与避坑指南</title>
       <link>https://bandwagonghost.github.io/blog/bandwagonhost-linux-panel-setup/</link>
