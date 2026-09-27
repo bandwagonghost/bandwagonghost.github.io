@@ -6,7 +6,7 @@
     <description>Recent content in 教程指南 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/tutorials/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>数据无价！搬瓦工 KiwiVM 面板快照与备份使用指南</title>
@@ -37,11 +37,11 @@
       <description>本文为您详细解读搬瓦工最新上线的 Assistant Amy 助手功能。作为一份零基础实操指南，我们将从核心交互方法、常见运维场景（如 VPS 管理、快捷建站），助您轻松驾驭服务器管理，告别传统运维的繁琐步骤。</description>
     </item>
     <item>
-      <title>搬瓦工IP被封怎么办？我来教你检测和更换</title>
+      <title>搬瓦工IP被封怎么办？2026最新流程与费用详解</title>
       <link>https://bandwagonghost.github.io/tutorials/bandwagonhost-ip-blocked-replacement-guide/</link>
       <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://bandwagonghost.github.io/tutorials/bandwagonhost-ip-blocked-replacement-guide/</guid>
-      <description>详细介绍如何检测搬瓦工VPS的IP是否被GFW封禁，包括官方blacklistcheck工具和ping测试方法，以及完整的IP更换流程和预防措施。</description>
+      <description>搬瓦工VPS连不上？教你使用搬瓦工官方blacklistcheck工具一键检测IP是否被墙，提供最新搬瓦工免费与付费更换IP完整流程、费用明细（8.79美元）与防止再次被封的实用技巧。</description>
     </item>
     <item>
       <title>搬瓦工KiwiVM控制面板邮件通知设置指南</title>
