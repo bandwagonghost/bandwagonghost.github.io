@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>海外 VPS 选购：CN2 GIA 是什么？为什么对晚高峰体验如此致命？</title>
+      <link>https://bandwagonghost.github.io/blog/what-is-cn2-gia-and-why-needed/</link>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/what-is-cn2-gia-and-why-needed/</guid>
+      <description>买海外 VPS 很多人只看延迟，却忽视了晚高峰最致命的丢包率。本文用通俗语言拆解 163 骨干网与 CN2 GIA 的本质区别，通过 10MB 网页加载与丢包重传模型，用实测数据讲透为什么 CN2 GIA 是防卡顿刚需，并提供清晰客观的选购决策建议。</description>
+    </item>
     <item>
       <title>搬瓦工邀请码是什么？如何获取限量版 VPS 指南</title>
       <link>https://bandwagonghost.github.io/blog/bandwagonhost-invite-code-guide/</link>
