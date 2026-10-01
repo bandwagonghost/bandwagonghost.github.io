@@ -6,8 +6,15 @@
     <description>Recent content in 技术博客 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 28 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 年搬瓦工官方镜像域名汇总与打不开的解决方法</title>
+      <link>https://bandwagonghost.github.io/blog/bandwagonhost-sites-access-guide/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/blog/bandwagonhost-sites-access-guide/</guid>
+      <description>搬瓦工官网打不开进不去怎么办？由于搬瓦工主域名在国内被拦截，官方持续推出了官方镜像域名（如 bwh81.net、bwh88.net 等）。本文汇总 2026 年最新官方正版镜像域名列表，重点对比官方知识库最新推荐的 bwh88.net（Cloudflare CDN 加速）与最佳体验的 bwh81.net（CN2 GIA 直连），提供防失联指南、KiwiVM 控制面板独立登录入口与防钓鱼鉴别方法。</description>
+    </item>
     <item>
       <title>海外 VPS 选购：CN2 GIA 是什么？为什么对晚高峰体验如此致命？</title>
       <link>https://bandwagonghost.github.io/blog/what-is-cn2-gia-and-why-needed/</link>
@@ -182,13 +189,6 @@
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://bandwagonghost.github.io/blog/bandwagonhost-bbr-setup-guide/</guid>
       <description>搬瓦工VPS网络速度慢？通过开启BBR加速算法，YouTube加载速度从17Mbps提升到45Mbps。本文详细介绍BBR的作用原理，提供一键安装命令，适合所有Linux新手用户。</description>
-    </item>
-    <item>
-      <title>搬瓦工官网无法访问怎么办？镜像站完美解决</title>
-      <link>https://bandwagonghost.github.io/blog/bandwagonhost-sites-access-guide/</link>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://bandwagonghost.github.io/blog/bandwagonhost-sites-access-guide/</guid>
-      <description>搬瓦工官网在国内无法正常访问？本文详细介绍搬瓦工被屏蔽的原因，以及如何通过官方镜像站正常访问购买VPS服务，包含最新可用镜像站地址。</description>
     </item>
     <item>
       <title>搬瓦工收不到通知邮件？完整解决方案汇总</title>
