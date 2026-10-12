@@ -6,8 +6,15 @@
     <description>Recent content in 详细评测 on 搬瓦工中文指南</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bandwagonghost.github.io/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搬瓦工 CN2 GIA-E 新增日本东京 JPTY_1 机房实测</title>
+      <link>https://bandwagonghost.github.io/reviews/bandwagonhost-jpty-1-review/</link>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://bandwagonghost.github.io/reviews/bandwagonhost-jpty-1-review/</guid>
+      <description>搬瓦工 CN2 GIA-E 套餐后台正式上线日本东京 JPTY_1 机房（Equinix TY8）。本文带来第一手实测：全面梳理去程与回程真实路由走向、三网晚高峰延迟与丢包表现，以及 AMD Genoa 硬件与磁盘性能，助你客观评估是否值得迁入。</description>
+    </item>
     <item>
       <title>搬瓦工新加坡 SG_8 机房怎么样！CN2 GIA 延迟、路由评测</title>
       <link>https://bandwagonghost.github.io/reviews/bandwagonhost-sg-8-review/</link>
